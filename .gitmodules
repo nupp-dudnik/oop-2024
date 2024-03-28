@@ -1,0 +1,4 @@
+[submodule "lab15"]
+	path = lab15
+	url = https://github.com/nupp-dudnik/oop-2024
+	branch = lab15
