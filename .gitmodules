@@ -10,3 +10,7 @@
 	path = lab17
 	url = https://github.com/nupp-dudnik/oop-2024
 	branch = lab17
+[submodule "lab18"]
+	path = lab18
+	url = https://github.com/nupp-dudnik/oop-2024
+	branch = lab18
