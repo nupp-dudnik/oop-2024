@@ -22,3 +22,7 @@
 	path = lab20
 	url = https://github.com/nupp-dudnik/oop-2024
 	branch = lab20
+[submodule "lab23"]
+	path = lab23
+	url = https://github.com/nupp-dudnik/oop-2024
+	branch = lab23
