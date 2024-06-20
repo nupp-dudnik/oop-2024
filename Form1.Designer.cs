@@ -1,6 +1,6 @@
-﻿namespace lab15
+﻿namespace lab17
 {
-    partial class Lab15
+    partial class Lab17
     {
         /// <summary>
         ///  Required designer variable.

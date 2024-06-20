@@ -1,10 +1,10 @@
-using lab17.Triangle;
+using lab17.Triangles;
 
-namespace lab15
+namespace lab17
 {
-    public partial class Lab15 : Form
+    public partial class Lab17 : Form
     {
-        public Lab15()
+        public Lab17()
         {
             InitializeComponent();
         }

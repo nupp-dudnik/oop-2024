@@ -1,4 +1,4 @@
-﻿namespace lab17.Triangle
+﻿namespace lab17.Triangles
 {
 
     public class IsoscelesTriangle(double equalSide, double baseSide) : Triangle(equalSide, baseSide, CalculateAngle(equalSide, baseSide))

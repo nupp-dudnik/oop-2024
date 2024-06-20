@@ -1,4 +1,4 @@
-﻿namespace lab17.Triangle
+﻿namespace lab17.Triangles
 {
     public abstract class Triangle(double a, double b, double angle)
     {

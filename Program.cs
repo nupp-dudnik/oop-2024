@@ -1,4 +1,4 @@
-namespace lab15
+namespace lab17
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace lab15
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Lab15());
+            Application.Run(new Lab17());
         }
     }
 }
